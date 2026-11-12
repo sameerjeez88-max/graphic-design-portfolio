@@ -5,7 +5,6 @@ Welcome to my design showcase. With **22+ years of experience**, I craft high-en
 ## 💎 1. Brand Identity & Logo Design
 *Custom logo concepts and visual identities.*
 
-![Brand Identity Design](brand-identity-design.jpg)
 ![Logo Design 1](logo-design-1.jpg)
 ![Logo Design 2](logo-design-2.png)
 
